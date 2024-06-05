@@ -12,3 +12,9 @@
 ## create an error when working in the same branch as partner, GBH
 
 ## creating another change in test1
+
+## Adding in 5 lines to force a merge conflict.
+## here is more text for the 5 lines
+## even more lines
+## did i mentio 5 lines
+## aaaaannnddd Fin

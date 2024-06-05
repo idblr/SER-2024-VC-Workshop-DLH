@@ -11,3 +11,9 @@
 # now @idblr is here to create conditions for a merge conflict a third time
 
 ## creating another change in test1
+
+## Adding in 5 lines to force a merge conflict.
+## here is more text for the 5 lines
+## even more lines
+## did i mentio 5 lines
+## aaaaannnddd Fin

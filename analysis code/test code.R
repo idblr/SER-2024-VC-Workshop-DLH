@@ -13,8 +13,8 @@
 
 ## creating another change in test1
 
-## Adding in 5 lines to force a merge conflict.
-## here is more text for the 5 lines
-## even more lines
-## did i mentio 5 lines
-## aaaaannnddd Fin
+## Adding in 5 lines to force a merge conflict. GBH
+## here is more text for the 5 lines GBH
+## even more lines GBH
+## did i mentio 5 lines GBH
+## aaaaannnddd Fin GBH

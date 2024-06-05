@@ -12,7 +12,6 @@
 
 ## creating another change in test1
 
-## Adding in 5 lines to force a merge conflict <- @idblr agrees
-## here is more text for the 5 lines
-## even more lines
+## Adding in 5 lines to force a merge conflict. GBH
+## here is more text for the 5 lines GBH
 ## did i mention 5 lines? it's actually 4 J/K :-*
